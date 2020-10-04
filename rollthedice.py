@@ -61,7 +61,8 @@ def menu():
 		print("Game finished!")
 		print("~~~~~~~~~~~~~~~~~~~")
 	else:
-			print("\t\tEnter correct key")
+			print("\t\tEnter correct key : ")
+			print("Rihan BAGWAN")
 			menu()
 menu()
 game()
