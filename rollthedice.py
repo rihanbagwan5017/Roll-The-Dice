@@ -9,6 +9,7 @@ def game():
 	a=str(input())
 	while a=="yes" or a=="y" :
 		print("Lets start the  game!")
+                print("hello")
 		print("\tIf you got match then you are winner.")
 		chances=chances-1
 		print("Chance on going : ",chances+1)
